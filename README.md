@@ -4,7 +4,7 @@
 
 ### Description
 
-A code snippet to get Azure Sentinel Entities after delivering an Alert ID
+A Python code snippet to get Azure Sentinel Entities after delivering an Alert ID
 
 ### Usage
 
@@ -12,3 +12,6 @@ A code snippet to get Azure Sentinel Entities after delivering an Alert ID
 python3 Azure-Sentinel-Entities.py <SystemAlertId> 
 ``` 
 
+### Comment
+
+To register an Azure Active Directory App follow the following post: [Access Azure Sentinel Log Analytics via API](https://techcommunity.microsoft.com/t5/azure-sentinel/access-azure-sentinel-log-analytics-via-api-part-1/ba-p/1248377)
