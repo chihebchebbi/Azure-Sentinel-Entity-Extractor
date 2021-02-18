@@ -1,6 +1,14 @@
 # Azure Sentinel Entity Extractor 
 
 ![](banner.png) <br>
-A script to get  Azure Sentinel  Entities from an incident 
 
+### Description
+
+A code snippet to get Azure Sentinel Entities after delivering an Alert ID
+
+### Usage
+
+```
+python3 Azure-Sentinel-Entities.py <SystemAlertId> 
+``` 
 
